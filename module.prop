@@ -1,0 +1,7 @@
+id=oxygenos-sound
+name=OxygenOS Sound Pack
+version=v3.1
+versionCode=3
+author=NaytSeyd
+description=The purpose of this module is to install OxygenOS system sounds on your device.
+minMagisk=17000
